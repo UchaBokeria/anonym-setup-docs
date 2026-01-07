@@ -1,2 +1,6 @@
-* [Home](README.md)
-* [Quickstart](quickstart.md)
+* [Quick Start](quickstart.md)
+* [Overview](overview.md)
+* [Web UI Configuration](web-ui-configuration.md)
+* [Architecture](architecture.md)
+* [Configuration](configuration.md)
+* [Tools](tools.md)
