@@ -1,6 +1,5 @@
 # Anonym Chat Setup
 
-## Quick Navigation
 
 - [Quick Start](quickstart.md) - Installation and deployment
 - [Overview](overview.md) - Project description and features
