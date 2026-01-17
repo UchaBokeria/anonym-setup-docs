@@ -71,7 +71,7 @@ See [Tools - Certificate Generator](docs/tools.md#certificate-generator) for mor
 **6. Login to Docker registry (required)**
 
 ```terminal
-docker login registry.anonym.giorgis.xyz
+docker login registry.anonym.giorgis.ink
 ```
 
 Enter the username and password provided to you. Registry access credentials are provided before deployment.
